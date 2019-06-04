@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>1 0.999974 0.999991 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>Px437_IBM_ISO9 - 42.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.67057 0.67055 0.670562 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>Px437_IBM_ISO9 - 42.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.255 0.801 0.27 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>Px437_IBM_ISO9 - 42.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.8 0.8 0.8 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>Px437_IBM_ISO9 - 42.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.135007 1 0.189766 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>Px437_IBM_ISO9 - 42.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.00136887 0.0422181 0.0177402 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.128312 0.123075 0.111655 1</string>
+	<key>DVTCursor</key>
+	<integer>2</integer>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.420701 0.189216 0.346376 1</string>
+	<key>DVTFontSizeModifier</key>
+	<integer>-2</integer>
+	<key>DVTLineSpacing</key>
+	<real>1</real>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.08 0.08 0.08 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.1536 0.1536 0.1536 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 9.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.AppleSystemUIFontItalic - 9.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>1 1 1 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.255 0.392 1 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.AppleSystemUIFont - 9.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.AppleSystemUIFont - 9.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>1 1 1 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.AppleSystemUIFont - 13.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.AppleSystemUIFont - 23.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.AppleSystemUIFont - 17.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.AppleSystemUIFontBold - 9.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.0311842 0.0301451 0.0361537 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.0626731 0.0626712 0.0626723 0.613514</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.304663 0.595231 0.0123143 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.198222 0.198222 0.198222 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.239432 0 0.406771 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.501957 0.999963 0.0310392 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.466106 0.470798 0.99867 0.781289</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.18977 0.194877 0.238844 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.549888 0.536101 0.622628 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.653991 0.600543 0.770426 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.04742 0.360922 0.00490516 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.0804027 0.636405 0.764798 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.302612 0.591004 0.0121595 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.225804 0.249644 0.642467 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.986042 0.00820631 0.501919 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.823104 0 0.868617 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.648682 0.354964 0.211012 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.616109 0.337946 0.201494 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.0785059 0.630047 0.889431 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.962061 0 0.713958 0.643968</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.580726 0 0.577368 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.400007 0.400103 0.998559 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.0880307 0.688515 0.68035 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.462676 0.421742 0.998631 0.927414</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.408837 0 0.998383 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.900027 0.715521 0.623381 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.459963 0.408492 0.701259 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.0588235 0.466667 0.623529 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.character</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.number</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.string</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+		<key>xcode.syntax.url</key>
+		<string>Px437_IBM_ISO9 - 32.0</string>
+	</dict>
+</dict>
+</plist>
